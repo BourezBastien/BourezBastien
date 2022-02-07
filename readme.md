@@ -1,7 +1,5 @@
 <img width="100%" height="auto" src="https://www.reshot.com/preview-assets/illustrations/BA7XR2GSJD/404-nature-illustration-BA7XR2GSJD-w1600.jpg"  style="max-width: 100%;">
 <br />
-<br />
-<br />
 
 <h1 align="center">Hi 👋, I'm Bastien</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
