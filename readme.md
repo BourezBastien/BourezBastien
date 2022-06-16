@@ -10,7 +10,7 @@
 
 - 🔭 Hosting Service [https://manager.seaperf.com/aff.php?aff=9] ( affiliate link )
 
-- 👨‍💻 All of my projects are available at [bastien-b.fr]
+- 👨‍💻 All of my projects are available at [bastien-b.fr](http://www.bastien-b.fr/)
 
 - 💬 Ask me about **Js, Html, Css, Sass, python**
 
