@@ -65,10 +65,10 @@
 ## 📊 Github Profile Stats
 <br />
 <p align="center">
-<img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api?username=bourezbastien=true&show_icons=true&theme=dracula&layout=compact" align = "center"/>
-<img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bourezbastien&show_icons=true&locale=en&layout=compact&bg_color=282a36&text_color=dd6387&title_color=dd6387&layout=compact" align = "center"/>
+<img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api?username=BourezBastien=true&show_icons=true&theme=dracula&layout=compact" align = "center"/>
+<img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=BourezBastien&show_icons=true&locale=en&layout=compact&bg_color=282a36&text_color=dd6387&title_color=dd6387&layout=compact" align = "center"/>
 </p>
 <br />
 <p align="center">
-<img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bourezbastien&show_icons=true&theme=dark&locale=en&layout=compact" align = "center"/>
+<img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=BourezBastien&show_icons=true&theme=dark&locale=en&layout=compact" align = "center"/>
 </p>
