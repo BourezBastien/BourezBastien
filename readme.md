@@ -36,11 +36,9 @@
 ## 📊 Github Profile Stats
 <br />
 
-<div style="display: flex; flex-direction: row;">
-  <p>&nbsp;<img class="img" src="https://github-readme-stats.vercel.app/api?username=bourezbastien&show_icons=true&theme=dark&locale=en" alt="bourezbastien" /></p>
+<p>&nbsp;<img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api?username=bourezbastien&show_icons=true&theme=dark&locale=en" alt="bourezbastien" /></p>
 
-  <p><img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=bourezbastien&theme=dark" alt="bourezbastien" /></p>
-</div>
+<p><img style="height: auto; width: 40%;" src="https://github-readme-streak-stats.herokuapp.com/?user=bourezbastien&theme=dark" alt="bourezbastien" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bourezbastien&show_icons=true&theme=dark&locale=en&layout=compact" alt="bourezbastien" /></p>
+<p><img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=bourezbastien&show_icons=true&theme=dark&locale=en&layout=compact" alt="bourezbastien" /></p>
 
