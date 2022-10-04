@@ -8,8 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bourezbastien&label=Profile%20views&color=0e75b6&style=flat" alt="bourezbastien" /> </p>
 <br />
 
-- 🔭 Hosting Service [https://manager.seaperf.com/aff.php?aff=9] ( affiliate link )
-
 - 👨‍💻 All of my projects are available at [bastien-b.fr](http://www.bastien-b.fr/)
 
 - 💬 Ask me about **Js, Html, Css, Sass, python**
