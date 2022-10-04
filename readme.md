@@ -64,18 +64,10 @@
 
 ## 📊 Github Profile Stats
 <br />
-
-<div style="display: flex; flex-direction: row; width:100%; align-items:center; justify-content:center; height: auto;">
- <a  href="#" >
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-    align="center"
-  />
-</a>
-  
- 
-</div>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=usernamecount_private=true&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=username&show_icons=true&locale=en&layout=compact" align = "center"/>
+</p>
 <br />
 
 <p><img style="height: auto; width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=bourezbastien&show_icons=true&theme=dark&locale=en&layout=compact" alt="bourezbastien" /></p>
