@@ -11,13 +11,13 @@
     src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"
   />
 </a>
-<a  target="_blank" href="https://www.instagram.com/aleks.popovic/">
+<a  target="_blank" href="https://stackoverflow.com/users/20161371/bourez-bastien">
   <img
     alt="Stackoverflow"
     src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"
   />
 </a>
-<a  target="_blank" href="https://www.linkedin.com/in/alekspopovic/" >
+<a  target="_blank" href="https://www.linkedin.com/in/bastien-bourez-617bba171/" >
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
