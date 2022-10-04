@@ -65,10 +65,10 @@
 ## 📊 Github Profile Stats
 <br />
 
-<div style="display: flex; flex-direction: row; width:100%; align-items:center; justify-content:center;">
-<p>&nbsp;<img style="height: auto; width: 48%;" align="left" src="https://github-readme-stats.vercel.app/api?username=bourezbastien&show_icons=true&theme=dark&locale=en" alt="bourezbastien" /></p>
+<div style="display: flex; flex-direction: row; width:100%; align-items:center; justify-content:center; height: auto;">
+<p>&nbsp;<img style="width: 48%;" align="left" src="https://github-readme-stats.vercel.app/api?username=bourezbastien&show_icons=true&theme=dark&locale=en" alt="bourezbastien" /></p>
 
-<p><img style="height: auto; width: 48%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bourezbastien&theme=dark" alt="bourezbastien" /></p>
+<p><img style="width: 48%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bourezbastien&theme=dark" alt="bourezbastien" /></p>
 </div>
 <br />
 
