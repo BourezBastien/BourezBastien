@@ -31,8 +31,6 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 🤝 I’m looking for help with **RPBot ( Private Project )**
-
 - 📫 How to reach me **contact@bastien-b.fr**
 
 - ⚡ Fun fact **I like working on discord bots**
