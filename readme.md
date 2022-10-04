@@ -66,9 +66,24 @@
 <br />
 
 <div style="display: flex; flex-direction: row; width:100%; align-items:center; justify-content:center; height: auto;">
-<p>&nbsp;<img style="width: 48%;" align="left" src="https://github-readme-stats.vercel.app/api?username=bourezbastien&show_icons=true&theme=dark&locale=en" alt="bourezbastien" /></p>
-
-<p><img style="width: 48%;" align="center" height: -3000px; src="https://github-readme-streak-stats.herokuapp.com/?user=bourezbastien&theme=dark" alt="bourezbastien" /></p>
+ <a  href="#" >
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+    align="center"
+  />
+</a>
+  
+  
+<a  href="#" >
+  <img
+    alt="Linkedin"
+    src="[https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge](https://github-readme-streak-stats.herokuapp.com/?user=bourezbastien&theme=dark)"
+    align="center"
+  />
+</a>
+  
+  
 </div>
 <br />
 
