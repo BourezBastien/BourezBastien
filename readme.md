@@ -74,16 +74,7 @@
   />
 </a>
   
-  
-<a  href="#" >
-  <img
-    alt="Linkedin"
-    src="[https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge](https://github-readme-streak-stats.herokuapp.com/?user=bourezbastien&theme=dark)"
-    align="center"
-  />
-</a>
-  
-  
+ 
 </div>
 <br />
 
