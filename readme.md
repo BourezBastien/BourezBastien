@@ -36,7 +36,7 @@
 ## 📊 Github Profile Stats
 <br />
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bourezbastien&show_icons=true&theme=dark&locale=en" alt="bourezbastien" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bourezbastien&show_icons=true&theme=dark&locale=en" alt="bourezbastien" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bourezbastien&theme=dark" alt="bourezbastien" /></p>
 
