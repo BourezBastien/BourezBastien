@@ -63,7 +63,7 @@
 ## 📊 Github Profile Stats
 <br />
 <p align="center">
-<img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api?username=BourezBastien=true&show_icons=true&theme=dracula" align = "center"/>
+<img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api?username=BourezBastien&show_icons=true&theme=dracula" align = "center"/>
 <img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=BourezBastien&show_icons=true&locale=en&layout=compact&bg_color=282a36&text_color=dd6387&title_color=dd6387" align = "center"/>
 </p>
 <br />
