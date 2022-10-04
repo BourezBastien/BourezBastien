@@ -68,5 +68,5 @@
 </p>
 <br />
 <p align="center">
-<img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=BourezBastien&show_icons=true&theme=dark&locale=enhide_border=true" align = "center"/>
+<img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=BourezBastien&show_icons=true&theme=dracula&locale=en&hide_border=true" align = "center"/>
 </p>
