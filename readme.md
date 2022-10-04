@@ -5,19 +5,19 @@
 <br />
   
 <div style="display: flex; flex-direction: row; width:100%; align-items:center; justify-content: center;" align="center">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
   <img
     alt="UTW"
     src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"
   />
 </a>
-<a href="https://www.instagram.com/aleks.popovic/">
+<a href="https://www.instagram.com/aleks.popovic/" target="_blank">
   <img
     alt="Stackoverflow"
     src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://www.linkedin.com/in/alekspopovic/">
+<a href="https://www.linkedin.com/in/alekspopovic/" target="_blank">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
