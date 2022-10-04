@@ -4,7 +4,7 @@
 
 <br />
   
-<div style="display: flex; flex-direction: row; width:100%; align-items:center; justify-content: center;">
+<div style="display: flex; flex-direction: row; width:100%; align-items:center; justify-content: center;" align="center">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img
     alt="UTW"
