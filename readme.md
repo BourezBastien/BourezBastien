@@ -65,7 +65,7 @@
 ## 📊 Github Profile Stats
 <br />
 <p align="center">
-<img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=bourezbastien=true&show_icons=true" align = "center"/>
+<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=bourezbastien=true&show_icons=true" align = "center"/>
 <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bourezbastien&show_icons=true&locale=en&layout=compact" align = "center"/>
 </p>
 <br />
