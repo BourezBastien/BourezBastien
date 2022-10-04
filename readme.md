@@ -42,5 +42,5 @@
 <p><img style="height: auto; width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=bourezbastien&show_icons=true&theme=dark&locale=en&layout=compact" alt="bourezbastien" /></p>
 </div>
 
-<p><img style="height: auto; width: 100%; height: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bourezbastien&theme=dark" alt="bourezbastien" /></p>
+<p><img style="height: auto; width: 100%; height: 10%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bourezbastien&theme=dark" alt="bourezbastien" /></p>
 
