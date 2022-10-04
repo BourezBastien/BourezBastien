@@ -72,5 +72,5 @@
 </div>
 
 
-<p><img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=bourezbastien&show_icons=true&theme=dark&locale=en&layout=compact" alt="bourezbastien" /></p>
+<p><img style="height: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=bourezbastien&show_icons=true&theme=dark&locale=en&layout=compact" alt="bourezbastien" /></p>
 
