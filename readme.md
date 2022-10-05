@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&pause=1500&center=true&vCenter=true&width=1920&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Bastien" alt="Typing SVG" /></a>
 
-<h3 align="center">A passionate Javascript developer from france</h3>
+<h3 align="center">I'm Bastien, a full-time Javascript developer 👨‍💻 working remotely since 2020 🚀</h3>
 
 <br />
   
