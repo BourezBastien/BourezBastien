@@ -39,8 +39,6 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 📫 How to reach me **contact@bastien-b.fr**
-
 - ⚡ Fun fact **I like working on discord bots**
 
 ## 🛠 Languages and Tools
