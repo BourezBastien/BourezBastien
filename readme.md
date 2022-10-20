@@ -10,10 +10,7 @@
     alt="UTW"
     src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"
   />
-  
-  
-  
-  
+  <br />
 </a>
 <a  target="_blank" href="https://stackoverflow.com/users/20161371/bourez-bastien">
   <img
