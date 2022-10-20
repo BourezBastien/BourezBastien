@@ -1,12 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&pause=1500&center=true&vCenter=true&width=1920&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Bastien" alt="Typing SVG" /></a>
 
-<h3 align="center">a full-time Javascript developer 👨‍💻 working remotely since 2020 🚀</h3><br />
-
-
-
-<br />
-
-
+<h3 align="center">a full-time Javascript developer 👨‍💻 working remotely since 2020 🚀</h3>
 
 <div style="display: flex; flex-direction: row; width:100%; align-items:center; justify-content: center;" align="center">
 <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
@@ -14,6 +8,7 @@
     alt="UTW"
     src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"
   />
+  <br />
   <br />
 </a>
 <a  target="_blank" href="https://stackoverflow.com/users/20161371/bourez-bastien">
