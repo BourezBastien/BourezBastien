@@ -3,6 +3,7 @@
 <h3 align="center">a full-time Javascript developer 👨‍💻 working remotely since 2020 🚀</h3>
 
 <br />
+<br />
   
 <div style="display: flex; flex-direction: row; width:100%; align-items:center; justify-content: center;" align="center">
 <a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
