@@ -75,7 +75,7 @@
 [![@bourezbastien's Holopin board](https://holopin.me/bourezbastien)](https://holopin.io/@bourezbastien)
 
 <br />
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true"><img src="https://github-profile-trophy.vercel.app/?username=BourezBastien&no-bg=true&column=10&margin-w=20&margin-h=20" alt="bourezbastien" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=BourezBastien&no-bg=true"><img src="https://github-profile-trophy.vercel.app/?username=BourezBastien&no-bg=true&column=10&margin-w=20&margin-h=20" alt="bourezbastien" /></a> </p>
 
 ## 📊 Github Profile Stats
 <br />
