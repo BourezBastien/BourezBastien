@@ -13,8 +13,7 @@
   <br />
 
 </a>
-  
-  <h2 align="left">📬 How to reach me:</h2>
+ 
    <br />
 <a  target="_blank" href="https://stackoverflow.com/users/20161371/bourez-bastien">
   <img
