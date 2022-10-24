@@ -19,8 +19,6 @@
    <br />
 <a  target="_blank" href="https://stackoverflow.com/users/20161371/bourez-bastien">
   <img
-    height="auto"
-    width="130px"
     alt="Stackoverflow"
     src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"
   />
@@ -28,8 +26,6 @@
   
 <a  target="_blank" href="https://www.linkedin.com/in/bastien-bourez-617bba171/" >
   <img
-    height="auto"
-    width="130px"
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
@@ -37,14 +33,14 @@
   
  <a  target="_blank" href="mailto:contact@bastien-b.fr" >
   <img
-    height="auto"
-    width="130px"
     alt="Mail"
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   />
 </a>
   
 </div>
+
+<br />
 
 <br />
 
