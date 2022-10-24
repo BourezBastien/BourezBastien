@@ -15,7 +15,7 @@
 </a>
   
 ## 📬 How to reach me:
- 
+   <br />
 <a  target="_blank" href="https://stackoverflow.com/users/20161371/bourez-bastien">
   <img
     alt="Stackoverflow"
