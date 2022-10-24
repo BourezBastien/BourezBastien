@@ -7,7 +7,7 @@
 <a  target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img
     height="auto"
-    width="150px"
+    width="140px"
     alt="UTW"
     src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"
   />
@@ -19,6 +19,8 @@
    <br />
 <a  target="_blank" href="https://stackoverflow.com/users/20161371/bourez-bastien">
   <img
+    height="auto"
+    width="140px"
     alt="Stackoverflow"
     src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"
   />
@@ -32,6 +34,8 @@
   
  <a  target="_blank" href="mailto:contact@bastien-b.fr" >
   <img
+    height="auto"
+    width="140px"
     alt="Mail"
     src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
   />
