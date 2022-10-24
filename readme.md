@@ -4,8 +4,10 @@
 <br />
 
 <div style="display: flex; flex-direction: row; width:100%; align-items:center; justify-content: center;" align="center">
-<a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<a  target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img
+    height="auto"
+    width="150px"
     alt="UTW"
     src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"
   />
