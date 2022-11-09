@@ -72,7 +72,7 @@
 
 ## 🏆 Github Profile Trophy
 
-[![Codewars](https://www.codewars.com/users/Bourez Bastien/badges/large)](https://www.codewars.com/users/Bourez Bastien)
+![Codewars](https://www.codewars.com/users/Bourez Bastien/badges/large)](https://www.codewars.com/users/Bourez Bastien)
 
 [![@bourezbastien's Holopin board](https://holopin.me/bourezbastien)](https://holopin.io/@bourezbastien)
 
