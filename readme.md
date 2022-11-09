@@ -79,6 +79,8 @@
 <br />
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=BourezBastien&no-bg=true"><img src="https://github-profile-trophy.vercel.app/?username=BourezBastien&no-bg=true&column=10&margin-w=20&margin-h=20" alt="bourezbastien" /></a> </p>
 
+[![Codewars](https://www.codewars.com/users/BourezBastien/badges/large)](https://www.codewars.com/users/BourezBastien)
+
 ## 📊 Github Profile Stats
 <br />
 <p align="center">
@@ -89,4 +91,3 @@
 <p align="center">
 <img height="auto" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=BourezBastien&show_icons=true&theme=dracula&locale=en&hide_border=true" align = "center"/>
 </p>
-[![Codewars](https://www.codewars.com/users/BourezBastien/badges/large)](https://www.codewars.com/users/BourezBastien)
