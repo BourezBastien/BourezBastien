@@ -44,9 +44,9 @@
 
 <br />
 
-- 🔭 I’m currently working on **vinBot ( Private Project )**
+- 🔭 I’m currently working on **BankRoot-API (Fictive projet to learn NestJS)**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NestJS**
 
 - ⚡ Fun fact **I like working on discord bots**
 
