@@ -15,7 +15,13 @@
   <br />
 
 </a>
-  ![](https://komarev.com/ghpvc/?username=BourezBastien&style=for-the-badge)
+    <img
+    height="auto"
+    width="150px"
+    alt="Profile view badge"
+    src="https://komarev.com/ghpvc/?username=BourezBastien&style=for-the-badge"
+  />
+ 
  
    <br />
 <a  target="_blank" href="https://stackoverflow.com/users/20161371/bourez-bastien">
