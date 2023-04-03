@@ -4,6 +4,12 @@
 <br />
 
 <div style="display: flex; flex-direction: row; width:100%; align-items:center; justify-content: center;" align="center">
+      <img
+    alt="Profile view badge"
+    src="https://komarev.com/ghpvc/?username=BourezBastien&style=for-the-badge"
+  />
+    <br />
+  <br />
 <a  target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img
     height="auto"
@@ -15,10 +21,6 @@
   <br />
 
 </a>
-    <img
-    alt="Profile view badge"
-    src="https://komarev.com/ghpvc/?username=BourezBastien&style=for-the-badge"
-  />
  
  
    <br />
