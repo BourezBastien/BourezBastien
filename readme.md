@@ -16,8 +16,6 @@
 
 </a>
     <img
-    height="auto"
-    width="150px"
     alt="Profile view badge"
     src="https://komarev.com/ghpvc/?username=BourezBastien&style=for-the-badge"
   />
