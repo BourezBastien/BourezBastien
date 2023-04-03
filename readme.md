@@ -12,6 +12,7 @@
     src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"
   />
   <br />
+  ![](https://komarev.com/ghpvc/?username=BourezBastien&style=for-the-badge)
   <br />
 
 </a>
