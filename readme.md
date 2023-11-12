@@ -52,7 +52,7 @@
 
 - 🔭 I’m currently working on [U-CMS](https://github.com/U-cms)
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **NextJs**
 
 - ⚡ Fun fact **I like working on discord bots**
 
