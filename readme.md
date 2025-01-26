@@ -50,9 +50,9 @@
     src="https://komarev.com/ghpvc/?username=BourezBastien&style=for-the-badge"
   />
 
-- 🔭 I’m currently working on [U-CMS](https://github.com/U-cms)
+- 🔭 I’m currently working on [Urahost](https://urahost.fr/)
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Null**
 
 - ⚡ Fun fact **I like working on discord bots**
 
