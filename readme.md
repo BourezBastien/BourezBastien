@@ -50,9 +50,9 @@
     src="https://komarev.com/ghpvc/?username=BourezBastien&style=for-the-badge"
   />
 
-- 🔭 I’m currently working on [Urahost](https://urahost.fr/)
+- 🔭 I’m currently working on [NotAName](https://notaname.xyz/)
 
-- 🌱 I’m currently learning **Null**
+- 🌱 I’m currently learning **Rust and Go**
 
 - ⚡ Fun fact **I like working on discord bots**
 
