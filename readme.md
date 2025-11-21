@@ -50,7 +50,7 @@
     src="https://komarev.com/ghpvc/?username=BourezBastien&style=for-the-badge"
   />
 
-- 🔭 I’m currently working on [NotAName](https://notaname.xyz/)
+- 🔭 I’m currently working on [NotaName](https://notaname.xyz/)
 
 - 🌱 I’m currently learning **Rust and Go**
 
